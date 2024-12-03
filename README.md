@@ -1,9 +1,11 @@
 # Calculadora de Media Semestral para Fatec 🏫
 
 Projeto Simples que desenvolvi para calcular média ao final do semestre, nas disciplinas da Fatec 📖
+
 Utilizei operadores condicionais e funções.
 
 Ainda preciso desenvolver um código para tratar as exceções.
+
 Sugestões são muito bem vindas.
 
 ## Tecnologia Utilizada
